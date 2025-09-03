@@ -4,7 +4,7 @@ I'm **Kosal Raj V**, a passionate developer from **India**. 🚀 I love creating
 
 ## About Me
 
--I'm currently a student at **DRBCCC Hindu College**. My journey in the tech world started with curiosity and a strong desire to learn. I'm always eager to expand my knowledge and skills in software development.
+I'm currently a student at **DRBCCC Hindu College**. My journey in the tech world started with curiosity and a strong desire to learn. I'm always eager to expand my knowledge and skills in software development.
 
 ## Skills & Technologies
 
