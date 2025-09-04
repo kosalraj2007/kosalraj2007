@@ -14,38 +14,39 @@
 
 ---
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashwanth1906&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanth1906&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kosalraj2007&show_icons=true&theme=radical)
+
+- **Public Repositories:** 3
+- **Followers:** 2
+- **Following:** 5
+ ### 👨‍💻 Leetcode status:
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/kosalraj?theme=dark&font=Assistant&ext=contest)
+
 
 ### 📌 Contribution Grid:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanth1906&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosalraj2007&amp;layout=compact&amp;theme=dark" alt="Top Langs" style="max-width: 100%;">
 
 ---
 
 ### 🌍 Connect With Me:
 <p align="center">
-  <a href="https://twitter.com/yashwanth1906" target="blank">
+  <a href="https://x.com/KosalRaj581732" target="blank">
      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/>
   </a>
-  <a href="https://linkedin.com/in/yashwanth-s-cse" target="blank">
+  <a href="https://www.linkedin.com/in/kosal-raj-940230316/"target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
-  <a href="https://www.codechef.com/users/yashwanth44" target="blank">
+  <a href="https://www.codechef.com/users/kosalraj_v" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40"/>
   </a>
-  <a href="https://codeforces.com/profile/yashwanth_s_010906" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CodeForces" height="40" width="40"/>
-  </a>
-  <a href="https://www.leetcode.com/yashwanth_010906" target="blank">
+  <a href="https://leetcode.com/u/kosalraj/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40"/>
   </a>
+<a href="https://www.instagram.com/kosalraj_v/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" width="40"/>
+</a>
+
 </p>
 
 🌟 **If you like my work, consider giving a star! ⭐**
