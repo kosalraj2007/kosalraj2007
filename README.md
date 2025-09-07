@@ -18,7 +18,7 @@
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kosalraj2007&show_icons=true&theme=radical)
 
 - **Public Repositories:** 3
-- **Followers:** 18
+- **Followers:** 21
 - **Following:** 35
  ### 👨‍💻 Leetcode status:
  ![LeetCode Stats](https://leetcard.jacoblin.cool/kosalraj?theme=dark&font=Assistant&ext=contest)
