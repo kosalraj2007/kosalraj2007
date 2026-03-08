@@ -4,7 +4,7 @@
 ### 🚀 About Me
 -  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/239c1c86-513c-4b08-8605-f25610c31c4b" /> BCA Student
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3146d356-815d-4720-8766-7c29f94b61a8" />Here's my portfolio
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/84936a4b-6cf0-40f2-8257-e4cd45f5b9b6" /> I'mcurrently learning DSA
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/84936a4b-6cf0-40f2-8257-e4cd45f5b9b6" /> I'mcurrently learning java
 - 📫 Reach me at **kosalrajvijay@gmail.com**
 - 📄 Check out my [Resume]()
 
